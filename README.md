@@ -57,23 +57,19 @@ Random Forest is an ensemble machine learning algorithm that combines multiple d
 
 ## 📁 Project Structure
 
-credit-risk-classification-system/
-│
-├── data/
-│   └── german_credit_data.csv
-│
-├── models/
-│
-├── src/
-│   └── credit_risk_model.py
-│
-├── web/
-│   ├── index.html
-│   ├── scripts.js
-│   └── style.css
-│
-├── README.md
-└── requirements.txt
+    credit-risk-classification-system/
+    ├── data/
+    │   └── german_credit_data.csv
+    ├── models/
+    ├── notebooks/
+    ├── src/
+    │   └── credit_risk_model.py
+    ├── web/
+    │   ├── index.html
+    │   ├── scripts.js
+    │   └── style.css
+    ├── README.md
+    └── requirements.txt
 
 ## Author
 
