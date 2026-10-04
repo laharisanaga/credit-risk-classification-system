@@ -57,7 +57,6 @@ Random Forest is an ensemble machine learning algorithm that combines multiple d
 
 ## 📁 Project Structure
 
-```text
 credit-risk-classification-system/
 │
 ├── data/
