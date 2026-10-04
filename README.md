@@ -80,5 +80,4 @@ credit-risk-classification-system/
 
 **Lahari Sanaga**
 
-B.Tech CSE – Data Science  
-Aspiring Data Analyst
+B.Tech – Computer Science & Engineering (Data Science)
