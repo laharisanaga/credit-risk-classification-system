@@ -10,7 +10,8 @@ from sklearn.metrics import accuracy_score, classification_report
 
 
 # Step 1: Load Dataset
-data = pd.read_csv("german_credit_data.csv")
+from pathlib import Path
+data = pd.read_csv(Path(__file__).resolve().parent.parent / "data" / "german_credit_data.csv")
 
 print("Credit Risk Classification System")
 print("----------------------------------")
