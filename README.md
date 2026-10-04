@@ -75,3 +75,10 @@ credit-risk-classification-system/
 │
 ├── README.md
 └── requirements.txt
+
+## Author
+
+**Lahari Sanaga**
+
+B.Tech CSE – Data Science  
+Aspiring Data Analyst
